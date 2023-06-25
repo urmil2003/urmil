@@ -3,7 +3,7 @@
 <head>
 	<title>file uploder</title>
 </head>
-<body>
+<boy>
 <form action="uploader.php" method="post" enctype="multipart/form-data">  
     Select File:  
     <input type="file" name="fileToUpload"/>  
